@@ -1,0 +1,11 @@
+{
+  "name": "react-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ivan Akulov <mail@iamakulov.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "8",
+    "eslint-plugin-react-compiler": "^0.0.0-experimental-fa06e2c-20241014"
+  }
+}
