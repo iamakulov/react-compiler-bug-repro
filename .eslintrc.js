@@ -10,8 +10,8 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: "module",
   },
-  plugins: ["react-compiler"],
+  plugins: ["react-hooks"],
   rules: {
-    "react-compiler/react-compiler": "error",
+    "react-hooks/react-compiler": "error",
   },
 };
